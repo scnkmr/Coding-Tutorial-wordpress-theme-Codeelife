@@ -1,3 +1,3 @@
 # Coding-Tutorial-wordpress-theme-Codeelife
-## Demo codeelife.com
-### Contact sachinthakur.in
+## Demo [Codeelife.com](http://codeelife.com)
+### Contact [SachinThakur.in](https://sachinthakur.in)
